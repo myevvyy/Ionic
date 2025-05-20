@@ -1,0 +1,32 @@
+.titulo {
+    background-color: #ffae00;
+    display: flex;
+    align-content: flex-start;
+    height: 200px;
+    border-radius: 0 0 30px 30px;
+    transition: ease-in;
+}
+
+.titulo .marrom {
+    position: relative;
+    left: 30px;
+    top: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4d3328;
+    background: #ffe599;
+    height: 35px;
+    padding: 0 4px;
+    border-radius: 5px;
+
+}
+
+.titulo .branco {
+    position: relative;
+    left: 40px;
+    top: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+
